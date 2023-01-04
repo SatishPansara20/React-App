@@ -1,0 +1,3 @@
+[submodule "redux-blog-app"]
+	path = redux-blog-app
+	url = https://github.com/SatishPansara20/redux-blog-app.git
