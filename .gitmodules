@@ -4,3 +4,6 @@
 [submodule "cart-app"]
 	path = cart-app
 	url = https://github.com/SatishPansara20/cart-app.git
+[submodule "Chat-App"]
+	path = Chat-App
+	url = https://github.com/SatishPansara20/Chat-App.git
