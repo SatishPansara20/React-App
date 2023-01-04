@@ -1,3 +1,6 @@
 [submodule "redux-blog-app"]
 	path = redux-blog-app
 	url = https://github.com/SatishPansara20/redux-blog-app.git
+[submodule "cart-app"]
+	path = cart-app
+	url = https://github.com/SatishPansara20/cart-app.git
